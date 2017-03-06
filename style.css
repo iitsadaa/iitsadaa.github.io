@@ -2,9 +2,14 @@ a {
   font-family: arial;
 }
 
+link, vlink, alink {
+  color: #CC9999;
+}
+
 body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 11px;
+  color: #E9CED4;
   line-height: 1px;
   margin: 0;
   padding: 0;
